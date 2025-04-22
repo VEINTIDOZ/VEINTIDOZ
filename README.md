@@ -20,9 +20,9 @@
 - Linux | Networking | Hacking 
 - Git | Docker | Nmap | Wireshark
 
-# $ sudo apt-get install cool-projects
-- [PROFILE](https://github.com/VEINTIDOZ/) - 
-- [WEB](https://veintidoz.github.io/22/) - 
+# $ sudo apt-get install veintidoz
+- [Check my profile](https://github.com/VEINTIDOZ/) - 
+- [Visit my website](https://veintidoz.github.io/22/) - 
 
 # $ top -u hacker
 ```text
