@@ -16,12 +16,12 @@
 
 # $ cat skills.txt
 - Python | JavaScript | Bash
-- Linux | Networking | Hacking ético
+- Linux | Networking | Hacking 
 - Git | Docker | Nmap | Wireshark
 
 # $ sudo apt-get install cool-projects
-- [PROFILE](https://github.com/VEINTIDOZ/) - Tool for XYZ
-- [WEB](https://veintidoz.github.io/22/) - Automates ABC
+- [PROFILE](https://github.com/VEINTIDOZ/) - 
+- [WEB](https://veintidoz.github.io/22/) - 
 
 # $ top -u hacker
 ```text
