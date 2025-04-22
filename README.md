@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-2bbc8a?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-Neovim-57a143?style=flat&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-Bash-1f1f1f?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Distro-Arch-1793d1?style=flat&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hack_the_Planet-000?style=flat&logo=matrix&logoColor=00FF00"/>
+</p>
+
 # $ whoami
 **[22]**
 
@@ -13,5 +22,6 @@
 - [WEB](https://veintidoz.github.io/22/) - Automates ABC
 
 # $ top -u hacker
+```text
 PID   USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
 1337  hacker    20   0  123456   7890   4567 S   99.9 42.0   00:00.01 neovim
