@@ -1,3 +1,9 @@
+
+![OS](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-Neovim-57a143?logo=neovim&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Bash-1f1f1f?logo=gnubash&logoColor=white)
+![Distro](https://img.shields.io/badge/Distro-Arch-1793d1?logo=archlinux&logoColor=white)
+![Hack the Planet](https://img.shields.io/badge/-Hack_the_Planet-000?style=flat&logo=matrix&logoColor=green)
 # $ whoami
 **[22]**
 
