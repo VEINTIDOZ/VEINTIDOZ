@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Distro-Arch-1793d1?style=flat&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Hack_the_Planet-000?style=flat&logo=matrix&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-Go-000?style=flat&logo=go&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/-WiFi_Hacking-000?style=flat&logo=wireless&logoColor=blue"/>
 
 </p>
 
