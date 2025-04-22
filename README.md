@@ -7,8 +7,8 @@
 - Git | Docker | Nmap | Wireshark
 
 # $ sudo apt-get install cool-projects
-- [ProjectName](https://github.com/VEINTIDOZ/ProjectName) - Tool for XYZ
-- [AnotherTool](https://github.com/VEINTIDOZ/AnotherTool) - Automates ABC
+- [ProjectName](https://github.com/VEINTIDOZ/) - Tool for XYZ
+- [AnotherTool]([https://github.com/VEINTIDOZ/AnotherTool](https://veintidoz.github.io/22/)) - Automates ABC
 
 # $ top -u hacker
 PID   USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
