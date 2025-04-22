@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Shell-Bash-1f1f1f?style=flat&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Distro-Arch-1793d1?style=flat&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Hack_the_Planet-000?style=flat&logo=matrix&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=yellow"/>
+
 </p>
 
 # $ whoami
