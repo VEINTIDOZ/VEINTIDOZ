@@ -8,7 +8,7 @@
 
 # $ sudo apt-get install cool-projects
 - [PROFILE](https://github.com/VEINTIDOZ/) - Tool for XYZ
-- [WEB](https://github.com/VEINTIDOZ/) - Automates ABC
+- [WEB](https://veintidoz.github.io/22/) - Automates ABC
 
 # $ top -u hacker
 PID   USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
