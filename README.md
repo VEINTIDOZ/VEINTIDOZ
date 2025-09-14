@@ -13,7 +13,7 @@
 # $ whoami
 **[22]**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luno.022/#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jqvier.022/#)
 
 # $ cat skills.txt
 - Python | JavaScript | Bash
