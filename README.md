@@ -14,8 +14,8 @@
 
 # $ cat skills.txt
 - Python | JavaScript | Bash
-- Linux | Networking | Hacking 
-- Git | Docker | Nmap | Wireshark
+- Linux | IDK | Hacking 
+- Git |     |   
 
 # $ sudo apt-get install veintidoz
 - [Check my profile](https://github.com/VEINTIDOZ/) - 
